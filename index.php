@@ -13,9 +13,12 @@
   <p>Menyediakan produk pakaian dan sarung </p>
 
   <h1>isinya isinya</h1>
-  <h2>lana lana</h2>
 
-  <p>ayo pull</p>
+
+  <h2>lana lana oooooo</h2>
+  <p>yyyy</p>
+  <p>okokokkokoko</p>
+
 </body>
 
 </html>
