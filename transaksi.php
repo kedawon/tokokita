@@ -1,0 +1,1 @@
+tawar menawar
