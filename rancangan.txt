@@ -1,3 +1,4 @@
+
 GIT ini merupakan sebuah komponen yang penting untuk sebuah website. 
 
 Keunggulan dari GIT ini yaitu dapat mengatur versi dari source code program dengan memberikan tanda baris serta code mana yang perlu untuk ditambah ataupun diganti. 
@@ -8,5 +9,4 @@ GIT ini memberikan kemudahan programmer untuk dapat mengetahui perubahan source 
 
 
 coba pull req
-
 
